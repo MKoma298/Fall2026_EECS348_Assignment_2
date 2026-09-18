@@ -1,3 +1,29 @@
+/*
+Prologue:
+Name: EECS 348 Assignment 2
+Desc.: This assignment is using a max heap to prioritize emails
+for a busy company. Also, comparing two different gen ai code to 
+one another and using the better code for the company.
+Inputs: A .txt file with the emails in it
+Outputs: 
+"There are ___ emails to read"
+
+Next email:
+        Sender: ______
+        Subject:______
+        Date: ______
+
+There are ____ emails to read"
+
+This is just an example formatting, the formatting will change
+based on the inputed .txt file.
+
+Code Sources: Chatgpt, Gemini
+Name: Miakah Komardley
+Creation Date: Sept. 17th, 2026
+Revision Date: Sept. 17th, 2026
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
